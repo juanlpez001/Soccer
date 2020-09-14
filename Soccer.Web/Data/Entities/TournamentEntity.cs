@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Soccer.Web.Data.Entities
 {
-    public class TournamentEntity
+    public class TournamentEntity 
     {
         public int Id { get; set; }
 
