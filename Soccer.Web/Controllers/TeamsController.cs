@@ -157,7 +157,7 @@ namespace Soccer.Web.Controllers
 
                     }
                     else
-                    {
+                    { 
                         ModelState.AddModelError(string.Empty, ex.InnerException.Message);
                     }
                 }
